@@ -9,6 +9,8 @@ using Jason.WebApi.Migrations.Interfaces;
 using Jason.WebApi.Migrations.Services;
 using Dapper;
 using System.Data.SqlClient;
+using Elastic.Apm;
+using Elastic.Apm.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -81,6 +83,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+
+app.UseElasticApm();
 
 app.UseHttpsRedirection();
 

@@ -51,6 +51,18 @@
               "target": "Package",
               "version": "[2.3.0, )"
             },
+            "Elastic.Apm": {
+              "target": "Package",
+              "version": "[1.14.1, )"
+            },
+            "Elastic.Apm.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.14.1, )"
+            },
+            "Elastic.Apm.NetCoreAll": {
+              "target": "Package",
+              "version": "[1.14.1, )"
+            },
             "FluentMigrator": {
               "target": "Package",
               "version": "[3.3.2, )"
