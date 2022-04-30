@@ -3134,11 +3134,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\JasonNet\\Jason\\Jason.WebApi\\Jason.WebApi.csproj",
+      "projectUniqueName": "C:\\Temp\\GIT_JASON\\Jason\\Jason.WebApi\\Jason.WebApi.csproj",
       "projectName": "Jason.WebApi",
-      "projectPath": "C:\\Temp\\JasonNet\\Jason\\Jason.WebApi\\Jason.WebApi.csproj",
+      "projectPath": "C:\\Temp\\GIT_JASON\\Jason\\Jason.WebApi\\Jason.WebApi.csproj",
       "packagesPath": "C:\\Users\\josec\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\JasonNet\\Jason\\Jason.WebApi\\obj\\",
+      "outputPath": "C:\\Temp\\GIT_JASON\\Jason\\Jason.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

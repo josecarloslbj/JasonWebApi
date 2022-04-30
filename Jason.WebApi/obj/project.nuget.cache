@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MxADeMe0D3YyH12SJC3UQrnUDZmSb9C90E0gRS9LZGuIDCUrWgW/I+fL1eJY/R2+XVnQWDIgOAPl6K8BtuGLoA==",
+  "dgSpecHash": "GHRUrzi3riR73dkX7YRgL11u12KoSvYIIUf/6lqU+gqiDON+K0sN6v3t/xqq9SAaYXVFEdi/i0wAn8+bjlqdoQ==",
   "success": true,
-  "projectFilePath": "C:\\Temp\\JasonNet\\Jason\\Jason.WebApi\\Jason.WebApi.csproj",
+  "projectFilePath": "C:\\Temp\\GIT_JASON\\Jason\\Jason.WebApi\\Jason.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josec\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\josec\\.nuget\\packages\\dapper.simplecrud\\2.3.0\\dapper.simplecrud.2.3.0.nupkg.sha512",
